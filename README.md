@@ -15,5 +15,5 @@ I see that my Canakit Micro SD included the Jessie distro of Raspbian. I'm going
 
 I also thought about just trying a Raspbian virtual machine.
 
-# Automate the Boring Stuff with Python
+## Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/
