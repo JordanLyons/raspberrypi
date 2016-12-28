@@ -14,3 +14,6 @@ I got the remote Pi control going, but I can't get it to start automatically on 
 I see that my Canakit Micro SD included the Jessie distro of Raspbian. I'm going to try to upgrade the NOOBS to the newer version: https://www.raspberrypi.org/downloads/noobs/
 
 I also thought about just trying a Raspbian virtual machine.
+
+# Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/
