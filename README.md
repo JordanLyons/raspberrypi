@@ -15,5 +15,9 @@ I see that my Canakit Micro SD included the Jessie distro of Raspbian. I'm going
 
 I also thought about just trying a Raspbian virtual machine.
 
+# Raspberryi Pi NAS
+
+http://blog.alexellis.io/hardened-raspberry-pi-nas/
+
 ## Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/
